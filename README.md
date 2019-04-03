@@ -4,7 +4,7 @@
 ## Code Repositories
 
 * <https://github.com/cloudmesh>, the main code repository
-* <https://github.com/cloudmesh-community>, the code and projects deliverd by students
+* <https://github.com/cloudmesh-community>, the code and projects deliverd by students. This includes 150+ projects
 
 ## Ansible
 
