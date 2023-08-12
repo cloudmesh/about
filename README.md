@@ -8,7 +8,7 @@
 
 ## Ansible
 
-* <https://github.com/cloudmesh-ansible>, Ansible recepoies for big data
+* <https://github.com/cloudmesh-ansible>, Ansible recipies for big data
 
 
 ## Class projects
